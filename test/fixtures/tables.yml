@@ -1,0 +1,5 @@
+<% 1.upto(10) do |i| %>
+<%= i %>:
+  id: <%= i %>
+  restaurant_id: 1 
+<% end %>
